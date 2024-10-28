@@ -24,10 +24,6 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 
 #
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%JoaoPedrosoDev&s=50&c=73daca&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPedrosoDev/JoaoPedrosoDev/output/github-contribution-grid-snake-dark.svg">
