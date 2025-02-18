@@ -3,6 +3,13 @@
 <a href="https://github.com/JoaoPedrosoDev">
 
   <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrosoDev&show_icons=true&theme=tokyonight" />
+  <img 
+      width=500
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrosoDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
  
 </a>
 
