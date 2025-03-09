@@ -22,7 +22,7 @@
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 
 ## 📚 Studying | Estudando
-
+[![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 
