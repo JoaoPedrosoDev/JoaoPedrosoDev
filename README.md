@@ -2,11 +2,11 @@
 
 <a href="https://github.com/JoaoPedrosoDev">
 
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrosoDev&show_icons=true&theme=tokyonight" />
   
 </a>
 
 ## 👨‍🦱 Social
+[![joao.pedroso.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 ## 🚀 Skills | Habilidades
 
