@@ -2,7 +2,8 @@
 
 <a href="https://github.com/JoaoPedrosoDev">
 
-  
+ <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrosoDev&show_icons=true&theme=tokyonight" />
+
 </a>
 
 ## 👨‍🦱 Social
