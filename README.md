@@ -25,7 +25,7 @@
 
 ## 📚 Studying | Estudando
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
-[![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 
 
 
