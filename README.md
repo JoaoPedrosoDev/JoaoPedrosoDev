@@ -27,16 +27,3 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 
-
-
-#
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPedrosoDev/JoaoPedrosoDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedrosoDev/JoaoPedrosoDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoPedrosoDev/JoaoPedrosoDev/output/pacman-contribution-graph.svg">
-</picture>
-<br>
-<br>
-
-
