@@ -10,8 +10,7 @@
   </a>
 </p>
 
-
-![JoaoPedrosoDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedrosoDev&bg_color:0D1117&color=990000&line=990000&point=990000&area=true&hide_border=true)
+![JoaoPedrosoDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedrosoDev&bg_color=0D1117&color=990000&line=990000&point=990000&area=true&hide_border=true)
 
 
 </div>
