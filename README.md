@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header"/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Jo%C3%A3o+Pedro+Pedroso!;I'm+17+years+old+and+I+love+React)
 
 
 <a href="https://github.com/JoaoPedrosoDev">
