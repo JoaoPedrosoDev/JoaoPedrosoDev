@@ -12,8 +12,8 @@
 - 🎓 I'm currently learning **Prisma** and **Docker**
 - 💼 I love building fullstack projects with **React + Node.js**
 - 🌱 Focused on modern tools like **Next.js**, **TailwindCSS**
-- 🎯 I aim to become a skilled **software engineer**
-- 
+- 🎯 I aim to become a skilled **developer**
+
 ---
 
 ## 🛠️ Tech Stack
