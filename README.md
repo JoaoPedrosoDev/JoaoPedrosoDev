@@ -4,13 +4,15 @@
 
 <div style="display: flex; align-items: flex-start; align: center">
 
-![JoaoPedrosoDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedrosoDev&bg_color=000000&color=990000&line=990000&point=990000&area=true&hide_border=true)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,py,tailwind,bootstrap,flask,mysql,vue,svelte,express,reactnative&theme=dark" />
   </a>
 </p>
+
+
+![JoaoPedrosoDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedrosoDev&bg_color=000000&color=990000&line=990000&point=990000&area=true&hide_border=true)
+
 
 </div>
 
