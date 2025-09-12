@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm João Pedro Pedroso</h1>
-<h3 align="center">I'm 17, passionate about web development and I love working with React.js!</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Im+João+Pedro+Pedroso+;I'm+17+years+old;And+I+Love+React.js;Fullstack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
