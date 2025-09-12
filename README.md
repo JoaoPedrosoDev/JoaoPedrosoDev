@@ -29,3 +29,6 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://www.linkedin.com/in/joaopdp/)
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer"/>
+
