@@ -11,19 +11,18 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm currently learning **TypeScript**, **Prisma**, and **Docker**
+- 🎓 I'm currently learning **Prisma** and **Docker**
 - 💼 I love building fullstack projects with **React + Node.js**
-- 🌱 Focused on modern tools like **Next.js**, **TailwindCSS**, and **Flask**
+- 🌱 Focused on modern tools like **Next.js**, **TailwindCSS**
 - 🎯 I aim to become a skilled **software engineer**
-- ⚡ Fun fact: I enjoy coding challenges and lo-fi playlists
-
+- 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,py,tailwind,bootstrap,flask,mysql,vue,svelte,express,reactnative,docker,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,py,tailwind,bootstrap,flask,mysql,vue,svelte,express,docker,git,github&theme=dark" />
   </a>
 </p>
 
@@ -47,27 +46,14 @@
 
 ---
 
-## 🚀 Featured Projects
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedrosoDev&repo=nome-do-repo&theme=dark&bg_color=0D1117&title_color=990000&text_color=ffffff)](https://github.com/JoaoPedrosoDev/nome-do-repo)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedrosoDev&repo=outro-repo&theme=dark&bg_color=0D1117&title_color=990000&text_color=ffffff)](https://github.com/JoaoPedrosoDev/outro-repo)
-
-> ✍️ Altere os nomes dos repositórios para os seus projetos reais.
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://linkedin.com/in/joaopdp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-990000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://seuportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-990000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/Email-990000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:joao.pedroso.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-990000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
