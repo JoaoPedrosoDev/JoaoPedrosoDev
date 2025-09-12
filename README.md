@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header"/>
 
-# 👋 Hi, I'm João Pedro Pedroso
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&width=435&lines=Im+Jo%C3%A3o+Pedro+Pedroso!;I+Have+17+Years+Old+and+I+love+React)](https://git.io/typing-svg)
 
 <a href="https://github.com/JoaoPedrosoDev">
 
