@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Im+João+Pedro+Pedroso+;I'm+17+years+old;And+I+Love+React.js;Fullstack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Im+João+Pedro+Pedroso+;I'm+17+years+old;And+I+Love+React.js;Fullstack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
