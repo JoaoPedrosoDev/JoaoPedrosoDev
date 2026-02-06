@@ -32,18 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoPedrosoDev&show_icons=true&theme=dark&title_color=990000&icon_color=990000&text_color=ffffff&bg_color=0D1117"/>
-
-<img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrosoDev&layout=compact&theme=dark&title_color=990000&text_color=ffffff&bg_color=0D1117"/>
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
